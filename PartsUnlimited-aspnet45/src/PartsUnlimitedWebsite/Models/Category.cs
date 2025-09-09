@@ -2,7 +2,8 @@
 using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
-{
+{ 
+    // Category class represents a product category
     public class Category
     {
         public int CategoryId { get; set; }
